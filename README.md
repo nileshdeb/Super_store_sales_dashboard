@@ -65,4 +65,5 @@ Power BI visuals optimization for storytelling and insights
 
 Screenshot: show what the dashboard looks like. 
 Example:https://github.com/nileshdeb/Super_store_sales_dashboard/blob/main/Super_store_sales_dashboard_screenshot1.png
+https://github.com/nileshdeb/Super_store_sales_dashboard/blob/main/Super_store_sales_dashboard_screenshot2.png
 

@@ -63,5 +63,6 @@ Forecasting and trend analysis using time series data
 
 Power BI visuals optimization for storytelling and insights
 
-Screenshots 
+Screenshot: show what the dashboard looks like. 
+Example:
 

@@ -1,69 +1,71 @@
-# Super_store_sales_dashboard
-📊 SuperStore Sales Dashboard with Forecast – Power BI Project
+#  SuperStore Sales Dashboard with Forecast – Power BI Project
 
+![Dashboard Screenshot 1](https://github.com/nileshdeb/Super_store_sales_dashboard/blob/main/Super_store_sales_dashboard_screenshot1.png)
+![Dashboard Screenshot 2](https://github.com/nileshdeb/Super_store_sales_dashboard/blob/main/Super_store_sales_dashboard_screenshot2.png)
 
-🧾 Overview
-This Power BI project visualizes historical sales data from a fictional SuperStore and includes a 15-day sales forecast. The dashboard provides detailed insights into regional performance, sales trends, profit breakdowns, and customer behaviors. It's designed for decision-makers to quickly assess sales performance and upcoming projections.
+---
 
-📌 Key Features
-✅ Page 1: Sales Overview Dashboard
-Sales KPIs: Total Sales (2M), Orders (22K), Profit (175K), Avg. Shipping Days (4)
+##  Overview
 
-Regional Sales Distribution: Sales by Region (West, East, South, Central)
+This Power BI project presents a comprehensive sales dashboard for a fictional SuperStore. It provides insights into historical sales performance and includes a 15-day sales forecast using Power BI’s built-in time series forecasting capabilities. Designed for data-driven decision-making, the dashboard enables interactive exploration of KPIs, regional performance, sales trends, and customer behavior.
 
-Sales by Payment Methods: Cards, Online, COD
+---
 
-Sales by Segment: Corporate, Consumer, Home Office
+##  Key Features
 
-Sales & Profit Trends by Month (2019–2020)
+###  Page 1: **Sales Overview Dashboard**
+- **Sales KPIs**:
+  - Total Sales:  ₹2M  
+  - Orders:  22K  
+  - Profit:  ₹175K  
+  - Avg. Shipping Days:  4  
 
-Sales by Category & Sub-Category
+- **Regional Sales Distribution**: Breakdown by West, East, South, Central  
+- **Payment Methods**: Card, Online, Cash on Delivery  
+- **Customer Segments**: Corporate, Consumer, Home Office  
+- **Sales & Profit Trends**: Monthly insights across 2019–2020  
+- **Category Analysis**: Sales by Category and Sub-Category  
+- **Geo Analysis**: State-wise sales and profit via map visual  
+- **Slicers for Filtering**: Region and Year for dynamic analysis  
 
-Map Visual: State-wise sales and profit distribution with geo insights
+---
 
-Slicers: Region and Year filters for drill-down analysis
+###  Page 2: **Sales Forecasting Dashboard**
+- **Forecast Horizon**: Predicts the next 15 days of sales  
+- **Visualizations**:
+  - Overall 2-year trend with forecast band  
+  - Zoomed 3-month view with a focused 15-day forecast  
+- **Top States by Sales**: Visual ranking (e.g., California, New York, Texas)  
 
-🔮 Page 2: Sales Forecasting (Time Series Analysis)
-Forecast Horizon: Predicts next 15 days of sales based on historical trends
+---
 
-Two Visualizations:
+##  Tools & Technologies Used
+- **Power BI Desktop**
+- **Data Modeling** with relationships
+- **DAX Measures** for KPIs and calculated insights
+- **Time Series Forecasting** using Power BI Analytics Pane
+- **Custom Visuals**: Maps, Slicers, Pie Charts, Area Charts, Bar Graphs
 
-Overall 2-year trend with forecast band
+---
 
-Zoomed 3-month trend with 15-day forecast area
+##  Dataset Description
+- **Dataset**: SuperStore Sample Dataset  
+- **Fields**:  
+  - Order Date, Ship Date, Region, Segment  
+  - Sales, Profit, Quantity, Payment Mode  
+  - State, Category, Sub-Category, etc.  
+- **Time Frame**: 2019–2020 (forecasting into early 2021)
 
-Sales by State: Visual ranking of top states by sales (e.g., California, New York, Texas)
+---
 
-🧰 Tools & Technologies Used
-Power BI Desktop
+##  Skills Demonstrated
+- Built interactive KPI dashboards for business stakeholders
+- Analyzed sales and profit trends by category and region
+- Applied forecasting models for time-based decision-making
+- Optimized dashboard layout for storytelling and insight extraction
 
-Data Modeling with Relationships
+---
 
-DAX Measures (KPIs)
-
-Forecasting using Power BI’s built-in analytics
-
-Slicers, Maps, Pie Charts, Area Charts, Bar Graphs
-
-📂 Dataset Description
-The dataset is based on the SuperStore Sample Dataset:
-
-Fields: Order Date, Ship Date, Region, Segment, Sales, Profit, Quantity, Payment Mode, State, Category, Sub-Category, etc.
-
-Time Range: 2019–2020 (with forecast for early 2021)
-
-
-
-💡 Skills Demonstrated
-Interactive KPI dashboards for business decision-making
-
-Sales and profit performance analysis by geography and category
-
-Forecasting and trend analysis using time series data
-
-Power BI visuals optimization for storytelling and insights
-
-Screenshot: show what the dashboard looks like. 
-Example:https://github.com/nileshdeb/Super_store_sales_dashboard/blob/main/Super_store_sales_dashboard_screenshot1.png
-https://github.com/nileshdeb/Super_store_sales_dashboard/blob/main/Super_store_sales_dashboard_screenshot2.png
-
+##  Dashboard Preview
+ [Screenshot 1](https://github.com/nileshdeb/Super_store_sales_dashboard/blob/main/Super_store_sales_dashboard_screenshot1.png)  
+ [Screenshot 2](https://github.com/nileshdeb/Super_store_sales_dashboard/blob/main/Super_store_sales_dashboard_screenshot2.png)
